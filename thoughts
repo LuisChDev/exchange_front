@@ -1,0 +1,16 @@
+what we are going to build on our website
+
+Our website will have the options to log in and sign up as a user. Every user
+has an investment pool. The pool replenishes slowly over time. Every user has
+the chance to invest on fads as they are uploaded. By investing on them,
+they are effectively buying "shares" on the fad. As the likes on the
+fad grow, so do their shares. Users are allowed to like anything
+they please, but they can only invest on so many fad at a time.
+
+Once uploaded, a fad can be invested in or liked. It will automatically
+be watermarked in an incospicuous way, such that any edited reuploads may still
+be identified with the original. This allows is to track the popularity of
+the fad on different sites. if the picture attains a particularly large
+amount of upvotes on reddit/likes on Instagram/whatever, this will be reflected
+on the value of the picture on the original site as well. Each like is like the
+user buying the fad.
